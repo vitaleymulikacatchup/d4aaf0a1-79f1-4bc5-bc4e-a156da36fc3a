@@ -1,0 +1,114 @@
+/* ============================================ */
+/* CSS/SCSS Variables Extracted from Source */
+/* Auto-generated from website cloning */
+/* ============================================ */
+
+/* CSS Custom Properties (use with var(--name)) */
+:root {
+  --primary-cta: #ffcf40;
+  --tw-ring-shadow: 0 0 #0000;
+  --card: #fdfdf0;
+  --color-primary-cta: var(--primary-cta);
+  --width-21: clamp(15.75rem, 21vw, 21rem);
+  --width-75: 75vw;
+  --width-10: 10vw;
+  --text-7xl: 10vw;
+  --text-lg: 3.5vw;
+  --width-25: 25vw;
+  --tw-inset-ring-shadow: 0 0 #0000;
+  --text-base--line-height: calc(1.5 / 1);
+  --width-carousel-item-4: var(--width-content-width);
+  --width-5: 5vw;
+  --width-30: 30vw;
+  --theme-border-radius: calc(clamp(.5rem, .8vw, 1rem) * 1.25);
+  --width-60: 60vw;
+  --blur-xl: 24px;
+  --tw-ring-offset-color: #fff;
+  --height-4: 3.5vw;
+  --tw-shadow-alpha: 100%;
+  --color-white: #fff;
+  --width-65: 65vw;
+  --tw-gradient-to: var(--secondary-cta);
+  --font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --height-12: 11vw;
+  --theme-border-radius-capped: calc(clamp(.5rem, .8vw, 1rem) * 1.25);
+  --width-40: 40vw;
+  --text-xl: 4.25vw;
+  --width-50: 50vw;
+  --height-9: 8.5vw;
+  --default-transition-duration: .15s;
+  --height-100: 90vw;
+  --width-85: 85vw;
+  --height-130: 117vw;
+  --width-80: 80vw;
+  --font-weight-bold: 700;
+  --font-weight-semibold: 600;
+  --font-weight-medium: 500;
+  --text-2xl: 5vw;
+  --text-5xl: 7.5vw;
+  --text-lg--line-height: calc(1.75 / 1.125);
+  --text-4xl--line-height: calc(2.5 / 2.25);
+  --text-base: 3.25vw;
+  --width-carousel-padding-controls: calc((100vw - var(--width-content-width)) / 2 + 1px);
+  --width-carousel-padding: calc((100vw - var(--width-content-width)) / 2 + 1px - var(--vw-1_5));
+  --spacing: .25rem;
+  --foreground: #1a1a00;
+  --vw: clamp(.5rem, .8vw, 1rem);
+}
+
+/* ============================================ */
+/* Color Variables */
+/* ============================================ */
+--primary-cta: #ffcf40;
+--tw-ring-offset-color: #fff;
+--color-white: #fff;
+--accent: #facc15;
+--background-accent: #ffbf00;
+--background: #fefef5;
+--secondary-cta: #fff;
+--color-black: #000;
+
+/* ============================================ */
+/* Spacing Variables */
+/* ============================================ */
+--width-x-padding-mask-fade: 10vw;
+
+/* ============================================ */
+/* Typography Variables */
+/* ============================================ */
+--text-2xl: 5vw;
+--text-7xl: 10vw;
+--text-lg: 3.5vw;
+--font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+--font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+--default-font-family: var(--font-sans);
+
+/* ============================================ */
+/* Other Variables */
+/* ============================================ */
+--tw-inset-shadow-alpha: 100%;
+--width-75: 75vw;
+--width-10: 10vw;
+--width-content-width: 80vw;
+--width-5: 5vw;
+--width-50: 50vw;
+--width-40: 40vw;
+--width-20: 20vw;
+--vw-0_75: calc(var(--vw) * .75);
+--vw-1_5: calc(var(--vw) * 1.5);
+--blur-xs: 4px;
+
+}
+
+/* ============================================ */
+/* Usage Guide */
+/* ============================================ */
+
+/* CSS Custom Properties (--var-name) */
+/* Use: color: var(--primary-color); */
+
+/* SCSS Variables ($var-name) */
+/* Use: color: $primary-color; */
+
+/* You can also use these in your Tailwind config */
+/* by importing this file or referencing the values */
